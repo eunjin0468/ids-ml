@@ -1,0 +1,24 @@
+# requirements.txt
+
+# 핵심 데이터 처리
+pandas==2.2.2
+numpy==1.26.4
+
+# 시각화
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# ML
+scikit-learn==1.5.0
+xgboost==2.0.3
+
+# 클래스 불균형 처리
+imbalanced-learn==0.12.3
+
+# 모델 해석 (선택 - 나중에 필요시)
+shap==0.45.1
+
+# Jupyter
+jupyter==1.0.0
+notebook==7.2.0
+ipykernel==6.29.4
