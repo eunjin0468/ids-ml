@@ -21,7 +21,7 @@ Matplotlib / Seaborn / Imbalanced-learn / SHAP
 
 
 ## 디렉토리 구조
-\```
+```
 ids-ml-project/
 ├── data/
 │   ├── raw/                 # 원본 NSL-KDD
@@ -30,6 +30,6 @@ ids-ml-project/
 ├── src/                     # 모듈화 코드
 ├── models/             # 저장된 모델
 └── api/                  
-\```
+```
 
 ---
