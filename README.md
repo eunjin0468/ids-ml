@@ -1,6 +1,4 @@
 # ML 기반 네트워크 침입 탐지 시스템 (IDS)
-
-
 ## 데이터셋
 - NSL-KDD Dataset
 - 125,973개 샘플 / 41개 피처
@@ -24,12 +22,10 @@ Matplotlib / Seaborn / Imbalanced-learn / SHAP
 ```
 ids-ml-project/
 ├── data/
-│   ├── raw/                 # 원본 NSL-KDD
-│   └── processed/    # 전처리 데이터
+│   ├── raw/           # 원본 NSL-KDD
+│   └── processed/     # 전처리 데이터
 ├── notebooks/         # jupyter notebook
-├── src/                     # 모듈화 코드
-├── models/             # 저장된 모델
+├── src/               # 모듈화 코드
+├── models/            # 저장된 모델
 └── api/                  
 ```
-
----
