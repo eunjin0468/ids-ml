@@ -13,7 +13,7 @@ Matplotlib / Seaborn / Imbalanced-learn / SHAP
 ## 구현 
 - [x] 환경 세팅
 - [x] 1단계: EDA
-- [ ] 2단계: 전처리 (인코딩, 스케일링, SMOTE)
+- [x] 2단계: 전처리 (인코딩, 스케일링, SMOTE)
 - [ ] 3단계: 모델 학습 & 평가 (Random Forest, XGBoost)
 - [ ] 4단계: SHAP 피처 중요도 분석
 
